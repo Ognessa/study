@@ -52,6 +52,10 @@ body{
 	box-shadow: 0 0 15px rgba(0,0,0,0.5);
 }
 
+.logo{
+	width:30px;
+}
+
 .item_menu{
 	margin-right: 30px;
 	color: #C8AEAE;
